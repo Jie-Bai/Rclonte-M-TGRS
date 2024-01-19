@@ -25,7 +25,8 @@ The author stores the hyperspectral waveform samples for users to implement our 
 
 - **Workflow of Rclonte-M——————————————————————————————————**
 
-![image](https://github.com/Jie-Bai/Rclonte-M-TGRS/assets/37448920/5821b013-1dff-48dd-be35-628aaa97965bstyle="width:50%;)
+![Fig  5算法流程图](https://github.com/Jie-Bai/Rclonte-M-TGRS/assets/37448920/6de861ba-9bed-42d8-8512-ddab9686f9cc)
+
 
 Fig. 1. Workflow of the Rclonte-M decomposition method.
 
