@@ -7,7 +7,7 @@ This file is generated on 17th Jan., 2024 by its author Jie Bai (白杰). Codeba
 
 Copyright (c) 2024 Jie Bai
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this code and to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, and utilize it in commercial softwares.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this code in their studies by citing this paper and to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, and utilize it in commercial softwares.
 
 However, note that users' improved or modified versions of this code are welcome and permitted only when acknowledging our article and with explanations in appropriate places in their articles. These improvements include, but are not limited to, the use of this code for the processing of single-wavelength waveforms and modifications to the kernel transform for advanced multispectral or hyperspectral waveform applications.
 
