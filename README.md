@@ -33,7 +33,7 @@ Fig. 1. Workflow of the Rclonte-M decomposition method.
 ### NOTE
 Compared with the waveform processing algorithm that takes the median after the target center position is arranged in descending order (in this paper Bai et al., 2024, IEEE TGRS), our RSE (Bai et al., 2024, RSE) paper adopts different rule to compensate for hidden echoes or weak echoes. 
 
-Bai J, Niu Z*, Huang Y, Wang L*, et al (2024). Full-waveform hyperspectral LiDAR data decomposition via ranking central locations of natural target echoes (Rclonte) at different wavelengths. Remote Sensing of Environment, 310:114227.
+Bai J, Niu Z*, Huang Y, Wang L*, et al (2024). Full-waveform hyperspectral LiDAR data decomposition via ranking central locations of natural target echoes (Rclonte) at different wavelengths. Remote Sensing of Environment, 310:114227. link this: https://www.sciencedirect.com/science/article/abs/pii/S0034425724002451?via%3Dihub
 
 More detailed core difference is here for the two and can help readers know more:
 ### 1. **Algorithm**:
